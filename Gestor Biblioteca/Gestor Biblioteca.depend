@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1645065888 source:c:\users\yo\desktop\cosas del codeblocks\gestor biblioteca\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"fecha.h"
+	"socios.h"
+	"libros.h"
+	"cuota.h"
+	"prestamos.h"
+
+1645049459 c:\users\yo\desktop\cosas del codeblocks\gestor biblioteca\fecha.h
+
+1645109982 c:\users\yo\desktop\cosas del codeblocks\gestor biblioteca\socios.h
+
+1645109982 c:\users\yo\desktop\cosas del codeblocks\gestor biblioteca\libros.h
+
+1645109982 c:\users\yo\desktop\cosas del codeblocks\gestor biblioteca\prestamos.h
+
+1645109982 c:\users\yo\desktop\cosas del codeblocks\gestor biblioteca\cuota.h
+

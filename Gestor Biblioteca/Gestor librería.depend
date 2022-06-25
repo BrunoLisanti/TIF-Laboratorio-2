@@ -1,0 +1,152 @@
+# depslib dependency file v1.0
+1642102172 source:c:\users\yo\desktop\cosas del codeblocks\gestor librería\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"prototipos.h"
+	"fecha.h"
+	"socios.h"
+	"libros.h"
+	"cuota.h"
+	"prestamos.h"
+
+1639626292 c:\users\yo\desktop\cosas del codeblocks\gestor librería\prototipos.h
+
+1639520768 c:\users\yo\desktop\cosas del codeblocks\gestor librería\fecha.h
+
+1642711006 c:\users\yo\desktop\cosas del codeblocks\gestor librería\socios.h
+
+1642709530 c:\users\yo\desktop\cosas del codeblocks\gestor librería\libros.h
+
+1643068086 c:\users\yo\desktop\cosas del codeblocks\gestor librería\prestamos.h
+
+1639421547 c:\users\yo\desktop\cosas del codeblocks\gestor librería\cuotas.h
+
+1642712094 c:\users\yo\desktop\cosas del codeblocks\gestor librería\cuota.h
+
+1639626067 source:c:\users\juanm\desktop\gestor librería\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"prototipos.h"
+	"fecha.h"
+	"socios.h"
+	"libros.h"
+	"cuota.h"
+	"prestamos.h"
+
+1639626290 c:\users\juanm\desktop\gestor librería\prototipos.h
+
+1639520766 c:\users\juanm\desktop\gestor librería\fecha.h
+
+1639624700 c:\users\juanm\desktop\gestor librería\socios.h
+
+1639619251 c:\users\juanm\desktop\gestor librería\libros.h
+
+1639626220 c:\users\juanm\desktop\gestor librería\cuota.h
+
+1639626751 c:\users\juanm\desktop\gestor librería\prestamos.h
+	"cuota.h"
+
+1639628440 source:c:\users\nicga\desktop\gestor librería\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"prototipos.h"
+	"fecha.h"
+	"socios.h"
+	"libros.h"
+	"cuota.h"
+	"prestamos.h"
+
+1639626292 c:\users\nicga\desktop\gestor librería\prototipos.h
+
+1639520768 c:\users\nicga\desktop\gestor librería\fecha.h
+
+1639658355 c:\users\nicga\desktop\gestor librería\socios.h
+
+1639627508 c:\users\nicga\desktop\gestor librería\libros.h
+
+1639626222 c:\users\nicga\desktop\gestor librería\cuota.h
+
+1639657585 c:\users\nicga\desktop\gestor librería\prestamos.h
+	"cuota.h"
+
+1639628440 source:c:\users\nicga\desktop\nico\utn\laboratorio\gestor librería\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"prototipos.h"
+	"fecha.h"
+	"socios.h"
+	"libros.h"
+	"cuota.h"
+	"prestamos.h"
+
+1639626292 c:\users\nicga\desktop\nico\utn\laboratorio\gestor librería\prototipos.h
+
+1639520768 c:\users\nicga\desktop\nico\utn\laboratorio\gestor librería\fecha.h
+
+1639658356 c:\users\nicga\desktop\nico\utn\laboratorio\gestor librería\socios.h
+
+1639627508 c:\users\nicga\desktop\nico\utn\laboratorio\gestor librería\libros.h
+
+1639626222 c:\users\nicga\desktop\nico\utn\laboratorio\gestor librería\cuota.h
+
+1639688992 c:\users\nicga\desktop\nico\utn\laboratorio\gestor librería\prestamos.h
+	"cuota.h"
+
+1644523399 source:c:\users\yo\desktop\cosas del codeblocks\gestor librería agregar consejos mama\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"fecha.h"
+	"socios.h"
+	"libros.h"
+	"prestamos.h"
+	"cuota.h"
+
+1639626292 c:\users\yo\desktop\cosas del codeblocks\gestor librería agregar consejos mama\prototipos.h
+
+1644954727 c:\users\yo\desktop\cosas del codeblocks\gestor librería agregar consejos mama\fecha.h
+
+1644949290 c:\users\yo\desktop\cosas del codeblocks\gestor librería agregar consejos mama\socios.h
+
+1644949290 c:\users\yo\desktop\cosas del codeblocks\gestor librería agregar consejos mama\libros.h
+
+1644963083 c:\users\yo\desktop\cosas del codeblocks\gestor librería agregar consejos mama\cuota.h
+
+1644967611 c:\users\yo\desktop\cosas del codeblocks\gestor librería agregar consejos mama\prestamos.h
+
+1644523399 source:c:\users\yo\desktop\cosas del codeblocks\gestor librería febrero\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"fecha.h"
+	"socios.h"
+	"libros.h"
+	"prestamos.h"
+	"cuota.h"
+
+1645049459 c:\users\yo\desktop\cosas del codeblocks\gestor librería febrero\fecha.h
+
+1645054326 c:\users\yo\desktop\cosas del codeblocks\gestor librería febrero\socios.h
+
+1645054326 c:\users\yo\desktop\cosas del codeblocks\gestor librería febrero\libros.h
+
+1645062503 c:\users\yo\desktop\cosas del codeblocks\gestor librería febrero\prestamos.h
+
+1645059595 c:\users\yo\desktop\cosas del codeblocks\gestor librería febrero\cuota.h
+
